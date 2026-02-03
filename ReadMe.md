@@ -69,6 +69,12 @@ The tool will generate a file named: Report_domain.com_YYYYMMDD-HHMM.pdf.
 - Detailed Findings: Technical descriptions of every identified vulnerability or technology, including the affected URL.
 - Remediation Advice: Actionable, step-by-step mitigation steps pulled directly from the Nuclei templates.
 
+## 📷 Images
+<img width="1959" height="1606" alt="image" src="https://github.com/user-attachments/assets/1f5698b0-8b8d-4b80-a5c8-f47a439f75cb" />
+<img width="1307" height="272" alt="image" src="https://github.com/user-attachments/assets/afa7280d-9951-4585-928a-e6bbed62b898" />
+<img width="1150" height="401" alt="image" src="https://github.com/user-attachments/assets/b19a6767-9a05-4d14-b8d9-d06b800bc0a0" />
+
+
 ## ⚠️ Troubleshooting
 
 |Error|Root Cause|Resolution|
