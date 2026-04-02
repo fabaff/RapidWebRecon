@@ -42,7 +42,7 @@ sudo apt install dos2unix -y
 
 ### 1. Clone the Repository:
 ```Bash
-git clone [https://github.com/YourUsername/Nuclei-PDF-Generator.git](https://github.com/YourUsername/Nuclei-PDF-Generator.git)
+git clone https://github.com/YourUsername/Nuclei-PDF-Generator.git
 cd Nuclei-PDF-Generator
 ```
 ### 2. Fix Encoding & Permissions: Ensure the scripts have execution rights and use Unix line endings.
